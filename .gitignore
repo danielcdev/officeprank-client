@@ -3,6 +3,8 @@
 build/
 captures/
 gradle/
+app/*.apk
+app/*.pro
 gradlew*
 *.properties
 *.log
